@@ -1,0 +1,195 @@
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\appsettings.json
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\EntityFrameworkCore.MySQL.exe
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\EntityFrameworkCore.MySQL.deps.json
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\EntityFrameworkCore.MySQL.runtimeconfig.json
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\EntityFrameworkCore.MySQL.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\EntityFrameworkCore.MySQL.pdb
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.csproj.AssemblyReference.cache
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.AssemblyInfoInputs.cache
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.AssemblyInfo.cs
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.csproj.CoreCompileInputs.cache
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\staticwebassets\msbuild.EntityFrameworkCore.MySQL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\staticwebassets\msbuild.build.EntityFrameworkCore.MySQL.props
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EntityFrameworkCore.MySQL.props
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EntityFrameworkCore.MySQL.props
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\scopedcss\bundle\EntityFrameworkCore.MySQL.styles.css
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.csproj.CopyComplete
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\refint\EntityFrameworkCore.MySQL.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.pdb
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.genruntimeconfig.cache
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\ref\EntityFrameworkCore.MySQL.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Scrutor.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Zaza\Desktop\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\appsettings.json
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\EntityFrameworkCore.MySQL.exe
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\EntityFrameworkCore.MySQL.deps.json
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\EntityFrameworkCore.MySQL.runtimeconfig.json
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\EntityFrameworkCore.MySQL.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\EntityFrameworkCore.MySQL.pdb
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Scrutor.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.csproj.AssemblyReference.cache
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.AssemblyInfoInputs.cache
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.AssemblyInfo.cs
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.csproj.CoreCompileInputs.cache
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\staticwebassets\msbuild.EntityFrameworkCore.MySQL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\staticwebassets\msbuild.build.EntityFrameworkCore.MySQL.props
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EntityFrameworkCore.MySQL.props
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EntityFrameworkCore.MySQL.props
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\scopedcss\bundle\EntityFrameworkCore.MySQL.styles.css
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.csproj.CopyComplete
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\refint\EntityFrameworkCore.MySQL.dll
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.pdb
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.genruntimeconfig.cache
+C:\Users\Zaza\Desktop\2\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore-with-MySQL-master\EntityFrameworkCore.MySQL\obj\Debug\net6.0\ref\EntityFrameworkCore.MySQL.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\appsettings.json
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\EntityFrameworkCore.MySQL.exe
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\EntityFrameworkCore.MySQL.deps.json
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\EntityFrameworkCore.MySQL.runtimeconfig.json
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\EntityFrameworkCore.MySQL.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\EntityFrameworkCore.MySQL.pdb
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Scrutor.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.csproj.AssemblyReference.cache
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.AssemblyInfoInputs.cache
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.AssemblyInfo.cs
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.csproj.CoreCompileInputs.cache
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\obj\Debug\net6.0\staticwebassets\msbuild.EntityFrameworkCore.MySQL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\obj\Debug\net6.0\staticwebassets\msbuild.build.EntityFrameworkCore.MySQL.props
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EntityFrameworkCore.MySQL.props
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EntityFrameworkCore.MySQL.props
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\obj\Debug\net6.0\scopedcss\bundle\EntityFrameworkCore.MySQL.styles.css
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.csproj.CopyComplete
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\obj\Debug\net6.0\refint\EntityFrameworkCore.MySQL.dll
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.pdb
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\obj\Debug\net6.0\EntityFrameworkCore.MySQL.genruntimeconfig.cache
+C:\Users\Zaza\Desktop\2\ASP.NET Core Web API-MySQL\EntityFrameworkCore.MySQL\obj\Debug\net6.0\ref\EntityFrameworkCore.MySQL.dll
